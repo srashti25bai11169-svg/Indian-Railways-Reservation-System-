@@ -1,0 +1,4 @@
+A001|Administrator|admin|admin123|ADMIN
+U002|Subhadeep Paul|Subh123|12345@54321|USER
+U003|Rupansh Patidar|Rupansh123|6789@9876|USER
+U004|Divyansh Gupta|Dev|123456789@987654321|USER

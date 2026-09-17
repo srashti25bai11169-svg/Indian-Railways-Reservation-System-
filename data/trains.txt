@@ -1,0 +1,5 @@
+12001|Shatabdi  Express|Delhi|Bhopal|500|850.0
+12002|Rajdhani Express|Delhi|Mumbai|600|1200.0
+12003|Intercity Express|Bhopal|Indore|400|500.0
+12004|Duronto Express|Mumbai|Delhi|550|1100.0
+12005|Garib Rath|Delhi|Jaipur|700|450.0
